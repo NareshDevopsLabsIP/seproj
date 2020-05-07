@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="myapptestsuite">
+<test name="myapptest">
+<classes>
+<class name="com.webapp.NewTest1"></class>
+<class name="com.webapp.NewTest3"></class>
+</classes>
+</test>
+</suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [myapptestsuite]">
+  <test thread-count="5" verbose="0" name="myapptest(failed)">
+    <classes>
+      <class name="com.webapp.NewTest3">
+        <methods>
+          <include name="close"/>
+          <include name="verifytitle"/>
+          <include name="launch"/>
+        </methods>
+      </class> <!-- com.webapp.NewTest3 -->
+    </classes>
+  </test> <!-- myapptest(failed) -->
+</suite> <!-- Failed suite [myapptestsuite] -->
